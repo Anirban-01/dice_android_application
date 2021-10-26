@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DICE ROLLER</string>
+    <string name="click_me">ROLL DICE</string>
+    <string name="click_to_view_text">CLICK TO VIEW TEXT</string>
+</resources>
